@@ -96,5 +96,5 @@ Laplace and Poisson equations
 
 
 # Discription
-* Mit Licenced
+* Open Source Licenced
 * For Educational Purpose
